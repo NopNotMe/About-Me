@@ -6,31 +6,31 @@
 <h1 id="david-anthony-sandoval">David Anthony Sandoval</h1>
 <p><a href="https://www.linkedin.com/li/da-sandoval">LinkedIn</a> | <a href="mailto:david.anthony.sandoval@gmail.com">Email</a> | (808) 271-1239</p>
 <h2 id="summary">Summary</h2>
-<p>Results-driven IT professional with a proven track record in software development, database administration, user interface design and server management. Excels in critical problem-solving, teamwork, communication, and has a strong passion for automation, cybersecurity, DevOps and much more. Committed to teamwork and leadership to obtain excellent overall results. I am an extremely reliable, trustworthy, focused, hard-working individual with strong morals, and a great work ethic. I am highly motivated and bring great enthusiasm into learning efficiently. I emphasize my reliability and dependability, and pay strict attention to quality, accuracy, and detail.</p>
+<p>Results-driven IT professional with a proven record in software development, database administration, user interface design and server management. Excels in critical thinking, problem-solving, and communication. Maintains a strong passion for automation, cybersecurity, DevOps, and software development. Committed to teamwork and leveraging leadership to obtain organizational focused results. I am an extremely reliable, trustworthy, dedicated individual with strong morals and a great work ethic. I am highly motivated and bring tremendous enthusiasm into learning efficiently. I also value strict attention to quality, accuracy, and detail to produce the best possible product.</p>
 <h2 id="relevant-experience">Relevant Experience</h2>
 <h3 id="it-director--seo-for-real-estate-investors--mint-hill-nc--jan-21---current">IT Director | SEO For Real Estate Investors | Mint Hill, NC | Jan 21 - Current</h3>
 <ul>
-<li>Led a small team of IT professionals from drafting and planning stages to deployment for a vast range of products. Some of these projects include: Online Course Dashboard, Online Community Forum, Marketing Campaign Deployments, Audience Research, Tag Tracking, A/B Testing, Ad Psychology Studies, UI/UX redesigns or initial implementations, Web Hosting and DNS Configuration, CRM and API Integrations.</li>
+<li>Led a team of IT professionals from drafting and planning stages to deployment for a vast range of products. Some of these projects include: Online Course Dashboard, Online Community Forum, Marketing Campaign Deployments, Audience Research, Tag Tracking, A/B Testing, Ad Psychology Studies, UI/UX redesigns or initial implementations, Web Hosting and DNS Configuration, CRM and API Integrations.</li>
 <li>Developed and implemented an Online Course resulting in budget costs to third-party applications as well as a custom design and experience to students that were accustom to a task manager interface previously.</li>
 <li>Collaborated with Administration and Support Leads to optimize client on-boarding’s, workflows, digital products and financial systems leading to less unnecessary human interaction replaced with automated processes. Created a Stripe API in our E-Commerce site with data pass-through to allow clients to purchase on the website while maintaining financial tool capabilities within Stripe’s software.</li>
-<li>Conducted endless research and design studies to ensure system stability, higher conversion rates, and user performance before proposing a tangible product.</li>
+<li>Conducted detailed research and reviewed design studies to ensure system stability, higher conversion rates, and user performance before proposing a tangible product.</li>
 </ul>
 <h3 id="it-manager--highvac-corp.--colorado-springs-co--oct-19---nov-20">IT Manager | HighVac Corp. | Colorado Springs, CO | Oct 19 - Nov 20</h3>
 <ul>
-<li>Lead the migrating of their current SQL version 2012 R2 Express system to a 2017 Standard SQL Server and tested compatibility without data loss in their ERP system.</li>
-<li>Gained practical experience in pump manufacturing and QA process.</li>
-<li>Collaborated with Financial departments to achieve custom budget and business reports that were soon turned into automated processes with an alert system.</li>
-<li>Participated in developing new tools inside their ERP system using Visual Basic Code to enhance user experience and overall productivity of the technician at their station.</li>
+<li>Lead the backend migrating of their current SQL version 2012 R2 Express system to a 2017 Standard SQL Server and tested compatibility without data loss in their ERP system.</li>
+<li>Obtained practical experience in pump manufacturing and QA process.</li>
+<li>Collaborated with Financial departments to achieve custom budget and business reports. That were quickly converted into automated processes with an alert system.</li>
+<li>Established new tools inside their ERP system using Visual Basic Code to enhance user experience and overall productivity of the technician at their station.</li>
 <li>Maintained and monitor network security and connections for a system of raspberry pi’s running individual stations reporting back to a master server for data collection and reporting.</li>
 </ul>
 <h3 id="software-application-developer--nazarene-bible-college--colorado-springs-co--july-17---oct-19">Software Application Developer | Nazarene Bible College | Colorado Springs, CO | July 17 - Oct 19</h3>
 <ul>
-<li>Manage a variety of websites that included updates, changes, newsletters, SEO and log monitoring.</li>
-<li>Create custom reports for financial and business office utility using SQL queries to fetch data and render them inside a print-ready format such as a PDF or web application.</li>
+<li>Managed a variety of websites that included updates, changes, newsletters, SEO and log monitoring.</li>
+<li>Created custom reports for financial and business office utility using SQL queries to fetch data and render them inside a print-ready format such as a PDF or web application.</li>
 <li>Deployed several user extensions for students and institutional use including forums, dashboards, management tools, error and log reporting. E.g. Recent students whom logged into their online portal across the country, according to a quick IP-geo relationship, are plotted on a heatmap that the college displays on their welcome monitor at the main headquarters.</li>
 <li>Presented new table and data structures to accomplish front-to-back streamlined applications while also sanitizing data and restricting access via security measures.</li>
-<li>Help manage the in-house datacenter including running and terminating cat5e/cat6/POE lines. Testing the validity of those cables with tools like Network Flukes, POE Toners, Optical Readers (for GFiber). Occasional work to our TeleComm Patch Panels and Server Switches either to update hardware or remove unused patch lines.</li>
-<li>Maintained our archives which included a weekly rotation of HDDs using a RAID level system that needed to be logged and indexed. All while the older archives would be cleaned and then brought back into rotation.</li>
+<li>Helped manage the in-house datacenter including running and terminating cat5e/cat6/POE lines. Testing the validity of those cables with tools like Network Flukes, POE Toners, Optical Readers (for GFiber). Occasional work to our TeleComm Patch Panels and Server Switches either to update hardware or remove unused patch lines.</li>
+<li>Maintained datacenter archives which included a weekly rotation of HDDs using a RAID level system that needed to be logged and indexed. All while the older archives would be cleaned and then brought back into rotation.</li>
 </ul>
 <h2 id="education">Education</h2>
 <h3 id="mechanical-engineering-minor-computer-science--university-of-colorado-colorado-springs-uccs--2013---2017--incomplete">Mechanical Engineering, Minor Computer Science | University Of Colorado, Colorado Springs UCCS | 2013 - 2017 | Incomplete</h3>
@@ -123,7 +123,7 @@
 <li><strong>Database &amp; Backend</strong> - SQL, NoSQL Oracle, MongoDB, MySQL
 <ul>
 <li>Developed an array of queries to accomplish reports and online application tool functionality.</li>
-<li>Ensuring any user input data will be  sanitized before executed to ensure SQLi and XSS attempts are dismissed.</li>
+<li>Ensured user input data was properly sanitized before executed. Ensured SQLi and XSS attempts are dismissed.</li>
 <li>Database administration encapsulating database structure, table design, column and variable types, user and server permissions, foreign and primary key relationships, auto indexing, database views, ect.</li>
 </ul>
 </li>
@@ -170,8 +170,8 @@ $groupPosts <span class="token operator">=</span> $<span class="token number">db
 </li>
 <li><strong>Graphic Design, Animation, Post Production</strong> - Adobe Suite Products (Illustrator, Photoshop, XD, After Effects, Premiere…), Blender
 <ul>
-<li>Good understanding of 3D environment principles and configuration, object textures and UV editing, motion and camera movement.</li>
-<li>Well vise in 2D Graphics to be utilized as marketing creatives, and visual campaign advertisement.<br>
+<li>Solid understanding of 3D environment principles and configuration, object textures and UV editing, motion and camera movement.</li>
+<li>Well versed in 2D Graphics to be utilized as marketing creatives, and visual campaign advertisement.<br>
 E.g. <a href="https://devnep.com/includes/imgs/graphics_preview.png">Halloween Edition 20R Banner</a></li>
 </ul>
 </li>
