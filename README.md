@@ -33,7 +33,7 @@ Results-driven IT professional with a proven record in software development, dat
 
 ## Education
 
-### Mechanical Engineering, Minor Computer Science | University Of Colorado, Colorado Springs UCCS | 2013 - 2017 | Incomplete
+### Mechanical Engineering, Minor Computer Science | University Of Colorado, Colorado Springs UCCS | 2013 - 2017 
 
 - Relevant: MATLAB by MathWorks, AutoCAD, CAD, Autodesk Revit 
 
