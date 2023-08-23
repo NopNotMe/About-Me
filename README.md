@@ -3,33 +3,33 @@
 
 ## Summary
 
-Results-driven IT professional with a proven track record in software development, database administration, user interface design and server management. Excels in critical problem-solving, teamwork, communication, and has a strong passion for automation, cybersecurity, DevOps and much more. Committed to teamwork and leadership to obtain excellent overall results. I am an extremely reliable, trustworthy, focused, hard-working individual with strong morals, and a great work ethic. I am highly motivated and bring great enthusiasm into learning efficiently. I emphasize my reliability and dependability, and pay strict attention to quality, accuracy, and detail.
+Results-driven IT professional with a proven record in software development, database administration, user interface design and server management. Excels in critical thinking, problem-solving, and communication. Maintains a strong passion for automation, cybersecurity, DevOps, and software development. Committed to teamwork and leveraging leadership to obtain organizational focused results. I am an extremely reliable, trustworthy, dedicated individual with strong morals and a great work ethic. I am highly motivated and bring tremendous enthusiasm into learning efficiently. I also value strict attention to quality, accuracy, and detail to produce the best possible product.
 
 ## Relevant Experience
 
 ### IT Director | SEO For Real Estate Investors | Mint Hill, NC | Jan 21 - Current
 
-- Led a small team of IT professionals from drafting and planning stages to deployment for a vast range of products. Some of these projects include: Online Course Dashboard, Online Community Forum, Marketing Campaign Deployments, Audience Research, Tag Tracking, A/B Testing, Ad Psychology Studies, UI/UX redesigns or initial implementations, Web Hosting and DNS Configuration, CRM and API Integrations. 
+- Led a team of IT professionals from drafting and planning stages to deployment for a vast range of products. Some of these projects include: Online Course Dashboard, Online Community Forum, Marketing Campaign Deployments, Audience Research, Tag Tracking, A/B Testing, Ad Psychology Studies, UI/UX redesigns or initial implementations, Web Hosting and DNS Configuration, CRM and API Integrations. 
 - Developed and implemented an Online Course resulting in budget costs to third-party applications as well as a custom design and experience to students that were accustom to a task manager interface previously.
 - Collaborated with Administration and Support Leads to optimize client on-boarding's, workflows, digital products and financial systems leading to less unnecessary human interaction replaced with automated processes. Created a Stripe API in our E-Commerce site with data pass-through to allow clients to purchase on the website while maintaining financial tool capabilities within Stripe's software.
-- Conducted endless research and design studies to ensure system stability, higher conversion rates, and user performance before proposing a tangible product.
+- Conducted detailed research and reviewed design studies to ensure system stability, higher conversion rates, and user performance before proposing a tangible product.
 
 ### IT Manager | HighVac Corp. | Colorado Springs, CO | Oct 19 - Nov 20
 
-- Lead the migrating of their current SQL version 2012 R2 Express system to a 2017 Standard SQL Server and tested compatibility without data loss in their ERP system.
-- Gained practical experience in pump manufacturing and QA process.
-- Collaborated with Financial departments to achieve custom budget and business reports that were soon turned into automated processes with an alert system.
-- Participated in developing new tools inside their ERP system using Visual Basic Code to enhance user experience and overall productivity of the technician at their station.
+- Lead the backend migrating of their current SQL version 2012 R2 Express system to a 2017 Standard SQL Server and tested compatibility without data loss in their ERP system.
+- Obtained practical experience in pump manufacturing and QA process.
+- Collaborated with Financial departments to achieve custom budget and business reports. That were quickly converted into automated processes with an alert system.
+- Established new tools inside their ERP system using Visual Basic Code to enhance user experience and overall productivity of the technician at their station.
 - Maintained and monitor network security and connections for a system of raspberry pi's running individual stations reporting back to a master server for data collection and reporting. 
 
 ### Software Application Developer | Nazarene Bible College | Colorado Springs, CO | July 17 - Oct 19
 
-- Manage a variety of websites that included updates, changes, newsletters, SEO and log monitoring.
-- Create custom reports for financial and business office utility using SQL queries to fetch data and render them inside a print-ready format such as a PDF or web application.
+- Managed a variety of websites that included updates, changes, newsletters, SEO and log monitoring.
+- Created custom reports for financial and business office utility using SQL queries to fetch data and render them inside a print-ready format such as a PDF or web application.
 - Deployed several user extensions for students and institutional use including forums, dashboards, management tools, error and log reporting. E.g. Recent students whom logged into their online portal across the country, according to a quick IP-geo relationship, are plotted on a heatmap that the college displays on their welcome monitor at the main headquarters.
 - Presented new table and data structures to accomplish front-to-back streamlined applications while also sanitizing data and restricting access via security measures.
-- Help manage the in-house datacenter including running and terminating cat5e/cat6/POE lines. Testing the validity of those cables with tools like Network Flukes, POE Toners, Optical Readers (for GFiber). Occasional work to our TeleComm Patch Panels and Server Switches either to update hardware or remove unused patch lines.
-- Maintained our archives which included a weekly rotation of HDDs using a RAID level system that needed to be logged and indexed. All while the older archives would be cleaned and then brought back into rotation.
+- Helped manage the in-house datacenter including running and terminating cat5e/cat6/POE lines. Testing the validity of those cables with tools like Network Flukes, POE Toners, Optical Readers (for GFiber). Occasional work to our TeleComm Patch Panels and Server Switches either to update hardware or remove unused patch lines.
+- Maintained datacenter archives which included a weekly rotation of HDDs using a RAID level system that needed to be logged and indexed. All while the older archives would be cleaned and then brought back into rotation.
 
 ## Education
 
@@ -114,7 +114,7 @@ function uploadImg(formData) {
 ```
 - **Database & Backend** - SQL, NoSQL Oracle, MongoDB, MySQL
 	- Developed an array of queries to accomplish reports and online application tool functionality.
-	- Ensuring any user input data will be  sanitized before executed to ensure SQLi and XSS attempts are dismissed.
+	- Ensured user input data was properly sanitized before executed. Ensured SQLi and XSS attempts are dismissed.
 	- Database administration encapsulating database structure, table design, column and variable types, user and server permissions, foreign and primary key relationships, auto indexing, database views, ect.
 ```sql
 // MySQL Example Utilizing The Above PHP Class to Fetch Records
@@ -151,8 +151,8 @@ $groupPosts = $db->fetchByID('
 	- Establish new repositories for projects with user permissions to allow other developers to submit feature pull requests into the main project that is actively synchronized via FTP with the master (Live) server for instantaneous updates and development.
 	- Ensure that commits and pull requests describe updates in their entirety.
 - **Graphic Design, Animation, Post Production** - Adobe Suite Products (Illustrator, Photoshop, XD, After Effects, Premiere...), Blender
-	- Good understanding of 3D environment principles and configuration, object textures and UV editing, motion and camera movement.
-	- Well vise in 2D Graphics to be utilized as marketing creatives, and visual campaign advertisement.
+	- Solid understanding of 3D environment principles and configuration, object textures and UV editing, motion and camera movement.
+	- Well versed in 2D Graphics to be utilized as marketing creatives, and visual campaign advertisement.
 E.g. [Halloween Edition 20R Banner](https://devnep.com/includes/imgs/graphics_preview.png)
 
 ## Projects
@@ -173,4 +173,3 @@ E.g. [Halloween Edition 20R Banner](https://devnep.com/includes/imgs/graphics_pr
 
 
 > "Like Time, Technology Never Stops."
-
