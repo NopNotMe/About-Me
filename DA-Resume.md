@@ -33,13 +33,15 @@
 <li>Maintained datacenter archives which included a weekly rotation of HDDs using a RAID level system that needed to be logged and indexed. All while the older archives would be cleaned and then brought back into rotation.</li>
 </ul>
 <h2 id="education">Education</h2>
-<h3 id="mechanical-engineering-minor-computer-science--university-of-colorado-colorado-springs-uccs--2013---2017--incomplete">Mechanical Engineering, Minor Computer Science | University Of Colorado, Colorado Springs UCCS | 2013 - 2017 | Incomplete</h3>
+<h3 id="mechanical-engineering-minor-computer-science--university-of-colorado-colorado-springs-uccs--2013---2017">Mechanical Engineering, Minor Computer Science | University Of Colorado, Colorado Springs UCCS | 2013 - 2017</h3>
 <ul>
-<li>Relevant: MATLAB by MathWorks, AutoCAD, CAD, Autodesk Revit</li>
+<li>MATLAB by MathWorks, AutoCAD, Autodesk Revit</li>
+<li>Strong studies in Mechanics, Thermodynamics, Fluid Dynamics, Physics, and Materials Science</li>
 </ul>
 <h3 id="cheyenne-mountain-high-school--colorado-springs-co--class-of-2013">Cheyenne Mountain High School | Colorado Springs, CO | Class of 2013</h3>
 <ul>
-<li>Relevant: AP Statistics, AP Calculus, Hand Draft MAE, AP Government</li>
+<li>AP Statistics, AP Calculus, Hand Draft MAE, AP Government</li>
+<li>Hand Draft / CAD Architectural Engineering Scholarship Award</li>
 </ul>
 <h2 id="skills">Skills</h2>
 <ul>
@@ -48,6 +50,8 @@
 <li>OOP Understanding</li>
 <li>Laravel / Symfony Framework Knowledge</li>
 <li>SESSION/GET/POST/AJAX/JSON Data Handling</li>
+<li>Wide Library / Framework Experience</li>
+<li>User Component Design / Event Triggering</li>
 </ul>
 </li>
 </ul>
