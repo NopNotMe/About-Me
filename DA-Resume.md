@@ -4,7 +4,7 @@
 ---
 
 <h1 id="david-anthony-sandoval">David Anthony Sandoval</h1>
-<p><a href="https://www.linkedin.com/li/da-sandoval">LinkedIn</a> | <a href="mailto:david.anthony.sandoval@gmail.com">Email</a> | (808) 271-1239</p>
+<p><a href="https://www.linkedin.com/in/da-sandoval">LinkedIn</a> | <a href="mailto:david.anthony.sandoval@gmail.com">Email</a> | (808) 271-1239</p>
 <h2 id="summary">Summary</h2>
 <p>Results-driven IT professional with a proven record in software development, database administration, user interface design and server management. Excels in critical thinking, problem-solving, and communication. Maintains a strong passion for automation, cybersecurity, DevOps, and software development. Committed to teamwork and leveraging leadership to obtain organizational focused results. I am an extremely reliable, trustworthy, dedicated individual with strong morals and a great work ethic. I am highly motivated and bring tremendous enthusiasm into learning efficiently. I also value strict attention to quality, accuracy, and detail to produce the best possible product.</p>
 <h2 id="relevant-experience">Relevant Experience</h2>
