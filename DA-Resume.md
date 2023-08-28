@@ -175,7 +175,9 @@ $groupPosts <span class="token operator">=</span> $<span class="token number">db
 <li><strong>Graphic Design, Animation, Post Production</strong> - Adobe Suite Products (Illustrator, Photoshop, XD, After Effects, Premiere…), Blender
 <ul>
 <li>Solid understanding of 3D environment principles and configuration, object textures and UV editing, motion and camera movement.</li>
-<li>Well versed in 2D Graphics to be utilized as marketing creatives, and visual campaign advertisement.<br>
+<li>Well versed in 2D Graphics to be utilized as marketing creatives, and visual campaign advertisement.</li>
+<li>SPIOT Report Example<br>
+<img src="https://devnep.com/includes/imgs/UI_Example.png" alt="UI Example"><br>
 E.g. <a href="https://devnep.com/includes/imgs/graphics_preview.png">Halloween Edition 20R Banner</a></li>
 </ul>
 </li>
@@ -190,9 +192,16 @@ E.g. <a href="https://devnep.com/includes/imgs/graphics_preview.png">Halloween E
 <p>Priscilla Williams, owner of <a href="https://hearttoheartacademy.com/">Heart to Heart Academy</a>, was honored with the Minority Owned Business of the Year award. Williams filled the need for an accessible school for certified nurse assistants in Southeast Colorado Springs by establishing Heart to Heart Academy, which is now one of the top CNA schools in Colorado.<br>
 Source: <a href="https://www.csbj.com/news/accolades-honors-women-leaders/article_cc1ab31a-28c0-11ed-8285-db011a15c4da.html">csbj.com</a></p>
 </blockquote>
+<h2 id="references">References</h2>
+<ul>
+<li>Jaeson Brown | Sr Web Developer | (804) 665-7884</li>
+<li>Myrl Johnson | RMC Director Of Operations | (719) 433-6836</li>
+<li>Jon Nasution | Supervising Manager | (719) 208-1222</li>
+<li>Priscilla Williams | Heart To Heart Academy CEO | (719) 659-4830</li>
+</ul>
 <h2 id="contact">Contact</h2>
 <ul>
-<li>LinkedIn: <a href="https://www.linkedin.com/li/da-sandoval">LinkedIn</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/da-sandoval">LinkedIn</a></li>
 <li>Email: <a href="mailto:david.anthony.sandoval@gmail.com">david.anthony.sandoval@gmail.com</a></li>
 <li>Personal Portfolio: <a href="https://devnep.com">www.devnep.com</a></li>
 </ul>
