@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="david-anthony-sandoval">David Anthony Sandoval</h1>
 <p><a href="https://www.linkedin.com/in/da-sandoval">LinkedIn</a> | <a href="mailto:david.anthony.sandoval@gmail.com">Email</a> | (808) 271-1239</p>
 <h2 id="summary">Summary</h2>
